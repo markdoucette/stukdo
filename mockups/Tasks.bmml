@@ -1,0 +1,152 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1084" measuredH="708" mockupW="1024" mockupH="688">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="60" y="20" w="1024" h="688" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Stukdo%0Ahttp%3A//stukdo.com/tasks</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="__group__" x="75" y="105" w="989" h="26" measuredW="989" measuredH="26" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Header%20Bar</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="58" measuredH="26" zOrder="0" locked="false" isInGroup="27">
+          <controlProperties>
+            <size>18</size>
+            <text>Stukdo</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="943" y="5" w="-1" h="-1" measuredW="46" measuredH="21" zOrder="1" locked="false" isInGroup="27">
+          <controlProperties>
+            <text>Log%20out</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="793" y="5" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="2" locked="false" isInGroup="27">
+          <controlProperties>
+            <text>Tasks</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="866" y="5" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="3" locked="false" isInGroup="27">
+          <controlProperties>
+            <text>Settings</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::SubTitle" x="234" y="224" w="-1" h="-1" measuredW="63" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>To%20Do</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::SubTitle" x="540" y="224" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Doing</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::SubTitle" x="849" y="224" w="-1" h="-1" measuredW="57" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Done</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="__group__" x="203" y="259" w="124" h="93" measuredW="124" measuredH="93" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Task</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="124" h="93" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="40"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="124" h="23" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="40"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="70" w="124" h="23" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="40"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="6" y="1" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="3" locked="false" isInGroup="40">
+          <controlProperties>
+            <text>Task1</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="109" y="1" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="4" locked="false" isInGroup="40">
+          <controlProperties>
+            <text>x</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="6" y="23" w="-1" h="-1" measuredW="89" measuredH="21" zOrder="5" locked="false" isInGroup="40">
+          <controlProperties>
+            <text>This%20is%20my%20task</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="57" y="70" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="6" locked="false" isInGroup="40">
+          <controlProperties>
+            <text>%3E</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="41" controlTypeID="__group__" x="510" y="259" w="124" h="93" measuredW="124" measuredH="93" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Task</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="124" h="93" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="41"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="124" h="23" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="41"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="70" w="124" h="23" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="41"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="6" y="1" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="3" locked="false" isInGroup="41">
+          <controlProperties>
+            <text>Task1</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="109" y="1" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="4" locked="false" isInGroup="41">
+          <controlProperties>
+            <text>x</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="6" y="23" w="-1" h="-1" measuredW="89" measuredH="21" zOrder="5" locked="false" isInGroup="41">
+          <controlProperties>
+            <text>This%20is%20my%20task</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="67" y="72" w="10" h="-1" measuredW="10" measuredH="21" zOrder="6" locked="false" isInGroup="41">
+          <controlProperties>
+            <text>%3E</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="41" y="71" w="10" h="-1" measuredW="10" measuredH="21" zOrder="7" locked="false" isInGroup="41">
+          <controlProperties>
+            <text>%3C</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="42" controlTypeID="__group__" x="815" y="259" w="124" h="93" measuredW="124" measuredH="93" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Task</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="124" h="93" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="42"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="124" h="23" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="42"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="70" w="124" h="23" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="42"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="6" y="1" w="-1" h="-1" measuredW="34" measuredH="21" zOrder="3" locked="false" isInGroup="42">
+          <controlProperties>
+            <text>Task1</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="109" y="1" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="4" locked="false" isInGroup="42">
+          <controlProperties>
+            <text>x</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="6" y="23" w="-1" h="-1" measuredW="89" measuredH="21" zOrder="5" locked="false" isInGroup="42">
+          <controlProperties>
+            <text>This%20is%20my%20task</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="57" y="70" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="6" locked="false" isInGroup="42">
+          <controlProperties>
+            <text>%3C</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Link" x="203" y="409" w="-1" h="-1" measuredW="54" measuredH="19" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>new%20task</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
